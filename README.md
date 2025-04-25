@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Your Name
 
-<!--
-**akshayware94/akshayware94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com/?lines=Researcher+%7C+Bioinformatician+%7C+Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&pause=1000&color=6AABF7&vCenter=true&size=22" />
 
-Here are some ideas to get you started:
+🔬 I’m a researcher focused on [Your Field, e.g., Genomics, AI in Healthcare]  
+📚 Check out my publications on [Google Scholar](https://scholar.google.com/citations?user=YourID)  
+💻 I love building tools that solve real problems in science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tools & Technologies
+
+- Python, R, Bash, Git
+- scRNA-seq, WGS, NGS, Docker
+- Linux, VS Code, Jupyter
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
+
+---
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/your-orcid-id)
