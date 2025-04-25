@@ -59,14 +59,5 @@
 
 ---
 
-### 📰 Publications
-
-📌 **CmiRC update 2024**: A multi-omics database for clustered miRNAs – _Functional and Integrative Genomics_  
-📌 **miRNA-92a-3p interaction in malaria** – _Functional and Integrative Genomics_  
-📌 **Shared variant in RTEL1 gene** – _International Journal of Genomics_  
-📌 **Exome sequencing of choreoacanthocytosis** – _Molecular Genetics and Genomics_  
-📌 See full list on [Google Scholar](https://scholar.google.com/citations?user=your_user_id)
-
----
 
 🎯 _"Turning data into insight, one line of code at a time."_  
