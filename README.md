@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Dr. Akshay Ware
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Researcher+%7C+Bioinformatician+%7C+Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&pause=1000&color=6AABF7&vCenter=true&size=22" />
 
