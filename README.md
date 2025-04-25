@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Akshay Ware
 
-[![](https://readme-typing-svg.demolab.com/?lines=Bioinformatician+%7C+Cancer+Genomics+Expert+%7C+Postdoc+at+Goethe+University;Data+Scientist+%7C+Open+Source+Contributor+%7C+Tech+Lover;&font=Fira%20Code&center=true&width=750&height=45&pause=1000&color=6AABF7&vCenter=true&size=22)](https://github.com/akshayware01)
+[![](https://readme-typing-svg.demolab.com/?lines=Bioinformatician+%7C+Cancer+Genomics+Expert+%7C+Postdoc+at+Goethe+University;Data+Scientist+%7C+Open+Source+Contributor+%7C+Tech+Lover;&font=Fira%20Code&center=true&width=750&height=45&pause=1000&color=6AABF7&vCenter=true&size=15)](https://github.com/akshayware01)
 
 🔬 **Postdoctoral Researcher @ Goethe University Frankfurt**  
 🧬 **PhD in Bioinformatics (Cancer Genomics, miRNA, Multi-Omics)**  
