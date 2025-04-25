@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Akshay Ware
 
-[![](https://readme-typing-svg.demolab.com/?lines=Bioinformatician+%7C+Cancer+Genomics+Expert+%7C+Postdoc+at+Goethe+University;Open+Source+%7C+CHIP%2FLOY+Researcher+%7C+Big+Data+%7C+scRNA-seq+Champion;&font=Fira%20Code&center=true&width=750&height=45&pause=1000&color=6AABF7&vCenter=true&size=22)](https://github.com/akshayware01)
+[![](https://readme-typing-svg.demolab.com/?lines=Bioinformatician+%7C+Cancer+Genomics+Expert+%7C+Postdoc+at+Goethe+University;Open+Source+%7C+CHIP%2FLOY+Researcher+%7C+Big+Data+%7C+scRNA-seq+Champion;&font=Fira%20Code&center=true&width=750&height=45&pause=1000&color=6AABF7&vCenter=true&size=15)](https://github.com/akshayware01)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub — I’m a scientist who turns raw data into biomedical insights!
 
