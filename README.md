@@ -178,7 +178,6 @@ Validated, cost-effective screening pipelines for **CHIP** and **mLOY** in bioba
 </tr>
 </table>
 
-> 🔧 Add direct GitHub links above as you publish each repo, and pin your top 6 repositories on your profile for maximum visibility.
 
 ---
 
