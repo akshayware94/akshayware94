@@ -28,12 +28,10 @@ Postdoctoral researcher decoding the genome one clone at a time — turning biob
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-akshayware01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayware01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-ware/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/akshay-ware/](https://www.linkedin.com/in/akshay-ware-phd-a882a088/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([https://orcid.org/0000-0000-0000-0000](https://orcid.org/0000-0002-3783-8291)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Akshay%20Ware-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Akshay-Ware)
-
-> 🔧 **Replace before publishing:** `YOUR_SCHOLAR_ID`, the ORCID iD, and the LinkedIn / ResearchGate handles with your real links. The GitHub username `akshayware01` is also assumed throughout — update it if different.
 
 ---
 
@@ -269,7 +267,7 @@ Validated, cost-effective screening pipelines for **CHIP** and **mLOY** in bioba
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayware94&layout=compact&hide_border=true&langs_count=8&title_color=1B6E8C&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=akshayware01&hide_border=true&ring=1B6E8C&fire=6AABF7&currStreakLabel=1B6E8C)
+![GitHub Streak](https://streak-stats.demolab.com/?user=akshayware94&hide_border=true&ring=1B6E8C&fire=6AABF7&currStreakLabel=1B6E8C)
 
 </div>
 
