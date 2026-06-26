@@ -21,7 +21,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bioinformatician+%7C+Computational+Biologist;Cardiovascular+%26+Cancer+Genomics;Somatic+Mosaicism+%7C+CHIP+%7C+mLOY;scRNA-seq+%7C+NGS+%7C+Population+Genomics;Reproducible+Pipelines+%7C+Cloud+%7C+HPC&font=Fira%20Code&center=true&width=750&height=45&pause=1000&color=6AABF7&vCenter=true&size=18)](https://github.com/akshayware01)
 
-Postdoctoral researcher decoding the genome one clone at a time — turning biobank-scale sequencing data into translational cardiovascular insight.
+Postdoctoral researcher decoding the genome one clone at a time - turning biobank-scale sequencing data into translational cardiovascular insight.
 
 ---
 
