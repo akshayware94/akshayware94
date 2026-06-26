@@ -265,9 +265,9 @@ Validated, cost-effective screening pipelines for **CHIP** and **mLOY** in bioba
 
 <div align="center">
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayware01&show_icons=true&count_private=true&hide_border=true&title_color=1B6E8C&icon_color=6AABF7&theme=default)
+![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayware94&show_icons=true&count_private=true&hide_border=true&title_color=1B6E8C&icon_color=6AABF7&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayware01&layout=compact&hide_border=true&langs_count=8&title_color=1B6E8C&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayware94&layout=compact&hide_border=true&langs_count=8&title_color=1B6E8C&theme=default)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=akshayware01&hide_border=true&ring=1B6E8C&fire=6AABF7&currStreakLabel=1B6E8C)
 
@@ -279,7 +279,7 @@ Validated, cost-effective screening pipelines for **CHIP** and **mLOY** in bioba
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshayware01&label=Profile%20Views&color=1B6E8C&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=akshayware94&label=Profile%20Views&color=1B6E8C&style=for-the-badge)
 
 </div>
 
