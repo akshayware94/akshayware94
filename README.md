@@ -15,7 +15,7 @@
 ============================================================
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1E2D,50:1B6E8C,100:6AABF7&height=200&section=header&text=Dr.%20Akshay%20Ware&fontSize=52&fontColor=ffffff&desc=Computational%20Biology%20·%20Genomics%20·%20AI&descAlignY=62&descSize=18&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0B1E2D,50:1B6E8C,100:6AABF7&height=230&section=header&text=Dr.%20Akshay%20Ware&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=Computational%20Biology%20·%20Genomics%20·%20AI&descAlignY=62&descSize=18&animation=fadeIn)
 
 # 👋 Hi, I'm Dr. Akshay Ware
 
@@ -66,15 +66,16 @@ Reproducible, cloud-native bioinformatics pipelines
 
 ---
 
-### 🚀 Current Research Projects
+### 🚀 Currently Exploring
 
-| Project | Focus | Scale |
-|---|---|---|
-| 🌫️ **Environmental Genomics & CV Risk** | Association of ambient **PM₂.₅** exposure with **mLOY** burden; convergent inflammatory/hematopoietic mediators (**PLAUR, MMP9**) of CV mortality & incident MI | 181,657 UKB males + proteomics (n = 20,645) |
-| ⚖️ **mLOY Measurement Strategy** | Intensity-based (**mLRRY**) vs. phase-based (**MoChA**) quantification — how analytic method shifts inferred risk thresholds & prevalence (5.3% → 19.2%) | 223,251 UKB participants |
-| 🫀 **CHIP, Aortic Valve & IL6R** | Cox proportional-hazards modelling of **TET2/CHIP**, aortic valve disease, and **IL6R** variant interactions | UK Biobank |
-| 🔬 **Single-Cell LOY Characterisation** | scRNA-seq (Seurat) profiling of **LOY cells** and **IL6** expression across PBMC cell types | PBMC cohorts |
-| 🧬 **Single-Cell Lineage Tracing** | Mitochondrial-variant analysis to reconstruct clonal dynamics in cardiovascular disease | — |
+A few broad areas I'm actively working on:
+
+- 🩸 Somatic mosaicism & clonal hematopoiesis (CHIP) in cardiovascular disease
+- 🧬 Mosaic loss of chromosome Y (mLOY) as a cardiovascular risk biomarker
+- 🌫️ Environmental exposures and cardiovascular genomic risk
+- 🔬 Single-cell genomics (scRNA-seq) & clonal lineage tracing
+- 🌐 Biobank-scale population genomics (UK Biobank, All of Us)
+- ⚙️ Reproducible, cloud-native bioinformatics pipelines
 
 ---
 
