@@ -28,9 +28,9 @@ Postdoctoral researcher decoding the genome one clone at a time — turning biob
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-akshayware01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshayware01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/akshay-ware/](https://www.linkedin.com/in/akshay-ware-phd-a882a088/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-ware-phd-a882a088/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([https://orcid.org/0000-0000-0000-0000](https://orcid.org/0000-0002-3783-8291)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--3783--8291-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3783-8291)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Akshay%20Ware-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Akshay-Ware)
 
 ---
